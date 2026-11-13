@@ -1,2 +1,3 @@
 print("Hello from Watermelon!")
 print("GitHub repository test successful!")
+print("Changes pushed from VS Code to GitHub!")
